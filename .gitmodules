@@ -1,0 +1,6 @@
+[submodule "arduino_basic"]
+	path = arduino_basic
+	url = https://github.com/Vu-Ngoc-Truong/arduino_basic.git
+[submodule "vl53l5cx"]
+	path = vl53l5cx
+	url = https://github.com/Vu-Ngoc-Truong/vl53l5cx.git
